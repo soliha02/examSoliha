@@ -1,0 +1,133 @@
+ *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+.container{
+    max-width: 1440px;
+  margin: 0 auto;
+
+}
+
+
+
+ul{
+ display: flex;
+justify-content: flex-end;
+list-style: none;
+text-decoration: none;
+gap: 80px;
+
+}
+
+.examHa{
+ 
+
+}
+
+.dori{
+    width: 1440px;
+height: 533px;
+background-image: url(./image\ 4.png);
+padding: 100px;
+color: white;
+display: flex;
+}
+
+.but{
+  
+    background: #DE2E54CC;
+    width: Hug (189px)px;
+height: Hug (49px)px;
+top: 367px;
+left: 170px;
+padding: 12px 24px 12px 24px;
+gap: 0px;
+border-radius: 8px 0px 0px 0px;
+opacity: 0px;
+color: white;
+}
+.hero{
+    display: flex;
+}
+.hero{
+ height: 435px;
+ padding-left: 300px;
+}
+
+.imgHa{
+padding-bottom: 90px;
+
+}
+
+.ulHa{
+    padding-bottom: 30px;
+    font-family: Open Sans;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 21px;
+    letter-spacing: 2px;
+    text-align: left;
+}
+
+.liHa{
+   color: #DE2E54;
+}
+
+.otaHa{
+    width: 1440px;
+height: 1000px;
+background: whitesmoke;
+
+}
+
+.h102{
+    text-align: center;
+}
+
+
+
+.divI{
+    width: 1440px;
+height: 800px;
+top: 1447px;
+left: 1px;
+gap: 0px;
+opacity: 0px;
+background: #0EB4C1;
+padding: 30px;
+}
+
+
+.omg{
+    display: flex;
+    padding: 40px;
+}
+
+.image{
+    margin-left: 60px;
+    position: absolute;
+  top: -120px;
+}
+.position-ota{
+    position: relative;
+}
+.rasm{
+    margin-left: 570px;
+    position: absolute;
+  top: -120px; 
+}
+.rusm{
+    margin-left: 1100px;
+    position: absolute;
+  top: -120px; 
+}
+
+.examNo{
+    background-color: black;
+
+}
+
+
+
